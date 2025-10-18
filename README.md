@@ -1,12 +1,12 @@
-# Netflix Clone - Flutter
+# FlickTv Clone - Flutter
 
-A fully responsive Netflix clone built with Flutter using Clean Architecture and BLoC state management pattern. Works seamlessly on Web, iOS, and Android.
+A fully responsive FlickTv clone built with Flutter using Clean Architecture and BLoC state management pattern. Works seamlessly on Web, iOS, and Android.
 
 ## Features
 
-✅ **Complete Netflix UI Clone**
+✅ **Complete FlickTv UI Clone**
 - Home screen with featured banner
-- Multiple movie/series rows (Trending, Popular, Top Rated, Netflix Originals)
+- Multiple movie/series rows (Trending, Popular, Top Rated, FlickTv Originals)
 - Movie/Series details screen with trailer autoplay
 - Similar content suggestions
 - Responsive design for mobile, tablet, and web
@@ -86,8 +86,8 @@ lib/
 
 1. **Clone or create a new Flutter project**
    ```bash
-   flutter create netflix_clone
-   cd netflix_clone
+   flutter create flick_tv
+   cd flick_tv
    ```
 
 2. **Replace the files**
@@ -289,7 +289,7 @@ Add tests for:
 
 ## License
 
-This project is for educational purposes only. Netflix and its content are trademarks of Netflix, Inc.
+This project is for educational purposes only. FlickTv and its content are trademarks of FlickTv, Inc.
 
 ## Support
 
